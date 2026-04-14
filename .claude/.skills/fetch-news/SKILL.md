@@ -92,7 +92,21 @@ For each collected item:
 File path: `/Users/brage/Documents/code/bragenews/news/YYYY-MM-DD.md`  
 Use today's date. If the file already exists (re-run same day), append new items to each section rather than overwriting.
 
+Always include a YAML frontmatter block at the top with: date, title, items (total count), topics (list of section names present), and `cover_image: null` (the build script fills this from OG cache).
+
 ```markdown
+---
+date: YYYY-MM-DD
+title: News Digest — YYYY-MM-DD
+items: X
+topics:
+  - Microsoft Fabric
+  - AI News
+  - Norwegian Partners
+  - Market Signals
+cover_image: null
+---
+
 # News Digest — YYYY-MM-DD
 
 ## Microsoft Fabric
