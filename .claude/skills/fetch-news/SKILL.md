@@ -40,7 +40,15 @@ Run these searches (pick the most useful 4–6 results across all):
 - `"Microsoft Fabric" site:microsoft.com/en-us/microsoft-fabric`
 - `Fabric lakehouse OR "real-time intelligence" OR "data factory" news 2026`
 
-### Topic B — AI News
+### Topic B — Databricks
+
+Run these searches (pick the most useful 4–6 results across all):
+- `"Databricks" announcement OR release OR feature 2026`
+- `"Azure Databricks" OR "Databricks SQL" OR "Unity Catalog" OR "Lakeflow" news 2026`
+- `site:databricks.com blog OR news 2026`
+- `Databricks lakehouse OR "Delta Lake" OR AI OR "data intelligence" news 2026`
+
+### Topic C — AI News
 
 Run these searches (pick 4–6 results):
 - `site:anthropic.com Claude new features OR release OR announcement`
@@ -48,26 +56,28 @@ Run these searches (pick 4–6 results):
 - `Microsoft Copilot AI announcement 2026`
 - `AI news this week LLM model release`
 
-### Topic C — Norwegian Microsoft Partners: Press Releases
+### Topic D — Norwegian Microsoft Partners: Press Releases
 
-Partners to cover: **Atea, Crayon, Sopra Steria, Bouvet, Miles, Computas, Itera**
+Partners to cover: **Atea, Crayon, Sopra Steria, Bouvet, Miles, Computas, Itera, Evidi**
 
 For each partner, run:
 - `"{partner}" pressmelding OR "press release" OR nyhet Microsoft 2026`
 - `site:{partner-domain} news OR blog 2026`  
-  (domains: atea.no, crayon.com/no, soprasteria.no, bouvet.no, miles.no, computas.com, itera.no)
+  (domains: atea.no, crayon.com/no, soprasteria.no, bouvet.no, miles.no, computas.com, itera.no, evidi.com)
 
 Collect the most recent 1–2 items per partner. Skip partners with no new results.
 
-### Topic D — Norwegian Microsoft Partners: Job Openings
+### Topic E — Norwegian Microsoft Partners: Job Openings
 
 For each partner, search:
 - `"{partner}" ledig stilling OR "data engineer" OR "AI engineer" OR "Fabric" OR "Databricks" 2026`
 - `finn.no "{partner}" data OR AI OR Fabric OR Databricks`
 
+(Include Evidi in the partner searches above.)
+
 Collect open roles that are clearly data/AI/Fabric/Databricks oriented. Include role title, partner, and link.
 
-### Topic E — Market Signals (Potential Customers)
+### Topic F — Market Signals (Potential Customers)
 
 Norwegian companies evaluating or adopting data platforms. Searches:
 - `norsk selskap "Microsoft Fabric" OR "Databricks" 2026`
@@ -101,6 +111,7 @@ title: News Digest — YYYY-MM-DD
 items: X
 topics:
   - Microsoft Fabric
+  - Databricks
   - AI News
   - Norwegian Partners
   - Market Signals
@@ -110,6 +121,9 @@ cover_image: null
 # News Digest — YYYY-MM-DD
 
 ## Microsoft Fabric
+- **[Title](url)** — Summary.
+
+## Databricks
 - **[Title](url)** — Summary.
 
 ## AI News

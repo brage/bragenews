@@ -20,10 +20,11 @@ const OG_TIMEOUT_MS = 6000;
 // ─── Category definitions ────────────────────────────────────────────────────
 
 const CATEGORIES = {
-  'Microsoft Fabric': { id: 'fabric',   emoji: '🏗️',  label: 'Microsoft Fabric' },
-  'AI News':          { id: 'ai',       emoji: '🤖',  label: 'AI News' },
+  'Microsoft Fabric': { id: 'fabric',    emoji: '🏗️',  label: 'Microsoft Fabric' },
+  'Databricks':       { id: 'databricks', emoji: '🧱',  label: 'Databricks' },
+  'AI News':          { id: 'ai',        emoji: '🤖',  label: 'AI News' },
   'Norwegian Microsoft Partners': { id: 'partners', emoji: '🤝', label: 'Partners' },
-  'Market Signals':   { id: 'market',   emoji: '📊',  label: 'Market Signals' },
+  'Market Signals':   { id: 'market',    emoji: '📊',  label: 'Market Signals' },
 };
 
 function detectCategory(title) {
@@ -184,6 +185,14 @@ function generateDigestPage({ filename, frontmatter, sections }, ogCache) {
   const title = frontmatter.title || `News Digest — ${date}`;
   const items = frontmatter.items ?? '?';
 
+  // Format date for display
+  let dateFormatted = slug;
+  try {
+    dateFormatted = new Date(slug + 'T12:00:00Z').toLocaleDateString('en-GB', {
+      day: 'numeric', month: 'long', year: 'numeric',
+    });
+  } catch { /* use raw string */ }
+
   const sectionsHtml = sections.map(s => {
     const cat = s.category;
     const bodyHtml = injectOgImages(s.html, ogCache);
@@ -217,6 +226,7 @@ ${siteHeader('../')}
     <a href="../" class="back-link">← All digests</a>
     <h1 class="digest-title">${title}</h1>
     <div class="digest-meta">
+      <span class="meta-badge meta-date">${dateFormatted}</span>
       <span class="meta-badge">${items} items</span>
       <div class="tags">
         ${topicTags}
@@ -242,10 +252,11 @@ function generateIndexPage(digests, ogCache) {
     const title = d.frontmatter.title || `News Digest — ${date}`;
     const items = d.frontmatter.items ?? '?';
 
-    // Format date for display
-    let dateFormatted = String(date);
+    // Format date for display (use slug — always YYYY-MM-DD string, avoids
+    // gray-matter parsing YAML dates as JS Date objects which breaks concat)
+    let dateFormatted = slug;
     try {
-      dateFormatted = new Date(date + 'T12:00:00Z').toLocaleDateString('en-GB', {
+      dateFormatted = new Date(slug + 'T12:00:00Z').toLocaleDateString('en-GB', {
         day: 'numeric', month: 'long', year: 'numeric',
       });
     } catch { /* use raw string */ }
