@@ -1,2 +1,3 @@
-.seen/
+.seen/*
+!.seen/urls.json
 node_modules/

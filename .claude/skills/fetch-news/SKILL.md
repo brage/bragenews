@@ -1,6 +1,6 @@
 ---
 name: fetch-news
-description: Fetch a daily news digest covering Microsoft Fabric, AI news (Claude/OpenAI), Norwegian Microsoft partners (press releases and job openings), and Norwegian market signals around Fabric/Databricks. Stores results as markdown in bragenews/news/. Deduplicates against previously seen URLs. Triggered by "fetch news", "what's new", "hent nyheter", or similar phrases — optionally with topic filters like "fetch news on Fabric only" or "focus on job openings".
+description: Fetch a daily news digest covering Microsoft Fabric, AI news (Claude/OpenAI), Norwegian Microsoft partners (press releases and job openings), and Norwegian market signals around Fabric/Databricks. Stores results as markdown in bragenews/news/ and builds HTML pages via build.js. Deduplicates against previously seen URLs. Triggered by "fetch news", "what's new", "hent nyheter", or similar phrases — optionally with topic filters like "fetch news on Fabric only" or "focus on job openings".
 ---
 
 # fetch-news
@@ -142,7 +142,21 @@ Collect all URLs written in Step 4. Add them to the list from Step 1. Write the 
 
 ---
 
-## Step 6 — Update index
+## Step 6 — Build HTML
+
+Run the following command from the repository root to regenerate all HTML pages in `docs/`:
+
+```bash
+cd /Users/brage/Documents/code/bragenews && node build.js
+```
+
+This converts all `news/*.md` files to `docs/news/*.html` and rebuilds `docs/index.html`. The build also fetches Open Graph images for new URLs and caches them in `.og-cache.json`.
+
+If the build fails, report the error to the user but do not block the overall skill — the markdown digest is the primary output.
+
+---
+
+## Step 7 — Update index
 
 Read `/Users/brage/Documents/code/bragenews/index.md`. Prepend a new line under the `## Digests` heading:
 
@@ -158,5 +172,5 @@ If today's date is already listed (re-run), update the item count instead of add
 
 Report a short summary to the user:
 - How many new items were found per topic
-- Path to the digest file
+- Path to the digest file and the generated HTML page (`docs/news/YYYY-MM-DD.html`)
 - Any topics that returned zero new results
