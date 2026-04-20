@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-04-20](news/2026-04-20.md) — 9 new items (Databricks strategic priorities, AI agents, Lovable integration, Claude Opus 4.7, Sopra Steria hiring, Atea agentic AI)
 - [2026-04-19](news/2026-04-19.md) — 8 new items (OpenAI GPT-5.4 Cyber & mini/nano, April 2026 LLM releases, Copilot Cowork, Tensio Fabric adoption, Norwegian data roles boom)
 - [2026-04-17](news/2026-04-17.md) — 9 new items (Fabric FabCon highlights, Databricks Q1-Q3 2026 releases, OpenAI GPT-5.4, Nscale AI infrastructure)
 - [2026-04-15](news/2026-04-15.md) — 15 new items (Fabric Q1-Q3 2026 updates, Claude 4.6, GPT-5.4 Cyber, Copilot Cowork, Sopra Steria AI, Atea, Nscale)
