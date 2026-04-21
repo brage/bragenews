@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-04-21](news/2026-04-21.md) — 11 new items (Databricks April releases, Copilot Cowork & Wave 3, Claude Opus 4.7, Agentic AI trends, Job openings)
 - [2026-04-20](news/2026-04-20.md) — 9 new items (Databricks strategic priorities, AI agents, Lovable integration, Claude Opus 4.7, Sopra Steria hiring, Atea agentic AI)
 - [2026-04-19](news/2026-04-19.md) — 8 new items (OpenAI GPT-5.4 Cyber & mini/nano, April 2026 LLM releases, Copilot Cowork, Tensio Fabric adoption, Norwegian data roles boom)
 - [2026-04-17](news/2026-04-17.md) — 9 new items (Fabric FabCon highlights, Databricks Q1-Q3 2026 releases, OpenAI GPT-5.4, Nscale AI infrastructure)
