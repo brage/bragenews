@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-04-25](news/2026-04-25.md) — 12 new items (GPT-5.5 release, Copilot Agent Mode, Sopra Steria partner recognition, Norwegian tech job openings)
 - [2026-04-24](news/2026-04-24.md) — 12 new items (FabCon 2026 highlights, Fabric-Databricks interoperability, OpenAI GPT-5.5, Claude Opus 4.7, Azure Databricks innovations, Agentic AI strategies)
 - [2026-04-23](news/2026-04-23.md) — 16 new items (Fabric real-time intelligence, Azure Databricks innovations, OpenAI Images 2.0, Meta LLM return, Agentic AI expansion, Norwegian data infrastructure boom)
 - [2026-04-22](news/2026-04-22.md) — 0 new items
