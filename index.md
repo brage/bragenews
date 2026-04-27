@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-04-27](news/2026-04-27.md) — 7 new items (OpenAI GPT-5.5, DeepSeek V4, Microsoft Copilot agents, Sopra Steria hiring)
 - [2026-04-26](news/2026-04-26.md) — 8 new items (FabCon recap, Fabric Operations Agent, Azure Databricks FabCon announcements, GPT-5.5, Claude Opus 4.7, Claude Design, Norwegian job openings)
 - [2026-04-25](news/2026-04-25.md) — 12 new items (GPT-5.5 release, Copilot Agent Mode, Sopra Steria partner recognition, Norwegian tech job openings)
 - [2026-04-24](news/2026-04-24.md) — 12 new items (FabCon 2026 highlights, Fabric-Databricks interoperability, OpenAI GPT-5.5, Claude Opus 4.7, Azure Databricks innovations, Agentic AI strategies)
