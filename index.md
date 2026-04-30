@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-04-30](news/2026-04-30.md) — 12 new items (Fabric real-time intelligence, Databricks April releases, GPT-5.5, Claude Opus 4.7, Eventhouse Endpoint)
 - [2026-04-29](news/2026-04-29.md) — 0 new items
 - [2026-04-28](news/2026-04-28.md) — 11 new items (Claude Opus 4.7, Fabric Influencers Spotlight, Fabric Go Local Singapore, Databricks April releases, DeepSeek V4, Alibaba Qwen, Meta MTIA chips)
 - [2026-04-27](news/2026-04-27.md) — 7 new items (OpenAI GPT-5.5, DeepSeek V4, Microsoft Copilot agents, Sopra Steria hiring)
