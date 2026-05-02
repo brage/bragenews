@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-02](news/2026-05-02.md) — 11 new items (Fabric on-premises gateway, GPT-5.5 multi-model release, Fabric April features, MySQL Mirroring)
 - [2026-05-01](news/2026-05-01.md) — 12 new items (Claude Security beta, Data gateway updates, Databricks innovations, DeepSeek V4 preview, Agentic AI trends in Norway)
 - [2026-04-30](news/2026-04-30.md) — 12 new items (Fabric real-time intelligence, Databricks April releases, GPT-5.5, Claude Opus 4.7, Eventhouse Endpoint)
 - [2026-04-29](news/2026-04-29.md) — 0 new items
