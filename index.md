@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-05](news/2026-05-05.md) — 12 new items (Fabric April features, DeepSeek V4, MiniMax M2.5, Claude Code $1.1B ARR, Nscale GPU expansion, Norwegian Fabric/Databricks adoption)
 - [2026-05-04](news/2026-05-04.md) — 0 new items
 - [2026-05-02](news/2026-05-02.md) — 11 new items (Fabric on-premises gateway, GPT-5.5 multi-model release, Fabric April features, MySQL Mirroring)
 - [2026-05-01](news/2026-05-01.md) — 12 new items (Claude Security beta, Data gateway updates, Databricks innovations, DeepSeek V4 preview, Agentic AI trends in Norway)
