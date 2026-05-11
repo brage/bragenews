@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-11](news/2026-05-11.md) — 23 new items (Fabric FabCon highlights with Graph/Maps/Data Agents/IQ, Claude financial services agents, SpaceX partnership, Norwegian data engineering job openings)
 - [2026-05-08](news/2026-05-08.md) — 8 new items (Microsoft Fabric gateway updates, Copilot Cowork expansion, Microsoft 365 Copilot April updates, AI model releases, Sopra Steria Q1 growth)
 - [2026-05-06](news/2026-05-06.md) — 12 new items (Fabric April updates, Databricks ABAC, Claude Opus 4.7, GPT-5.5 Instant, Claude Design, Atea Q1 2026, Sopra Steria growth, Norwegian data engineering jobs)
 - [2026-05-05](news/2026-05-05.md) — 12 new items (Fabric April features, DeepSeek V4, MiniMax M2.5, Claude Code $1.1B ARR, Nscale GPU expansion, Norwegian Fabric/Databricks adoption)
