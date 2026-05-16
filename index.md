@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-16](news/2026-05-16.md) — 10 new items (Fabric April, Databricks May, Claude Opus 4.7, GPT-5.5 Instant, Nscale $790M, Fossefall, Pax Silica, Norway AI hub)
 - [2026-05-15](news/2026-05-15.md) — 9 new items (Power BI May 2026, FabCon agentic AI, Databricks May releases, Claude Opus 4.7, May LLM roundup, Bouvet Fabric podcast, Atea webinars, Data engineer jobs)
 - [2026-05-08](news/2026-05-08.md) — 8 new items (Microsoft Fabric gateway updates, Copilot Cowork expansion, Microsoft 365 Copilot April updates, AI model releases, Sopra Steria Q1 growth)
 - [2026-05-06](news/2026-05-06.md) — 12 new items (Fabric April updates, Databricks ABAC, Claude Opus 4.7, GPT-5.5 Instant, Claude Design, Atea Q1 2026, Sopra Steria growth, Norwegian data engineering jobs)
