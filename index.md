@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-18](news/2026-05-18.md) — 12 new items (Fabric April features, Databricks May releases, GPT-5.5 Instant, Claude Opus 4.7, Claude Design, Norwegian AI infrastructure boom, Partner job openings)
 - [2026-05-17](news/2026-05-17.md) — 14 new items (Fabric April updates, Databricks May releases, Power BI May features, Claude Opus 4.7, Microsoft Copilot agents, GPT-5.5, Norwegian partner jobs)
 - [2026-05-16](news/2026-05-16.md) — 10 new items (Fabric April, Databricks May, Claude Opus 4.7, GPT-5.5 Instant, Nscale $790M, Fossefall, Pax Silica, Norway AI hub)
 - [2026-05-15](news/2026-05-15.md) — 9 new items (Power BI May 2026, FabCon agentic AI, Databricks May releases, Claude Opus 4.7, May LLM roundup, Bouvet Fabric podcast, Atea webinars, Data engineer jobs)
