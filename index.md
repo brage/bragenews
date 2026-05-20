@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-20](news/2026-05-20.md) — 8 new items (Fabric April & May updates, Databricks May releases, GPT-5.5 Instant, Claude Sonnet 4.6, Sopra Steria partner award, Nscale Microsoft AI expansion)
 - [2026-05-19](news/2026-05-19.md) — 5 new items (Fabric April feature summary, Databricks May releases, Claude Opus 4.7, GPT-5.5 Instant, Sopra Steria partner award, Evidi specialization)
 - [2026-05-18](news/2026-05-18.md) — 12 new items (Fabric April features, Databricks May releases, GPT-5.5 Instant, Claude Opus 4.7, Claude Design, Norwegian AI infrastructure boom, Partner job openings)
 - [2026-05-17](news/2026-05-17.md) — 14 new items (Fabric April updates, Databricks May releases, Power BI May features, Claude Opus 4.7, Microsoft Copilot agents, GPT-5.5, Norwegian partner jobs)
