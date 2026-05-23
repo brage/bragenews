@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-23](news/2026-05-23.md) — 7 new items (Power BI May 2026 updates, Databricks CNBC recognition, Claude pricing changes, Corporate finance expansion, Creative tools partnerships)
 - [2026-05-22](news/2026-05-22.md) — 8 new items (Fabric May features, Databricks May releases, GPT-5.5 Instant, Alibaba Zhenwu AI chip, Evidi partnership news, Nscale $790M financing)
 - [2026-05-21](news/2026-05-21.md) — 12 new items (Alibaba Zhenwu AI chip, Efficiency-focused LLM releases, Norwegian partner AI hiring, Nscale $790M Norway AI infrastructure, Microsoft Norway data center expansion)
 - [2026-05-20](news/2026-05-20.md) — 8 new items (Fabric April & May updates, Databricks May releases, GPT-5.5 Instant, Claude Sonnet 4.6, Sopra Steria partner award, Nscale Microsoft AI expansion)
