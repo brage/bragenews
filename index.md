@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-24](news/2026-05-24.md) — 12 new items (Fabric May features, Databricks May releases, Claude for Small Business, Gates Foundation partnership, KPMG alliance, Anthropic Institute, GPT-5.5 Instant, Cloudflare LLM infrastructure)
 - [2026-05-23](news/2026-05-23.md) — 7 new items (Power BI May 2026 updates, Databricks CNBC recognition, Claude pricing changes, Corporate finance expansion, Creative tools partnerships)
 - [2026-05-22](news/2026-05-22.md) — 8 new items (Fabric May features, Databricks May releases, GPT-5.5 Instant, Alibaba Zhenwu AI chip, Evidi partnership news, Nscale $790M financing)
 - [2026-05-21](news/2026-05-21.md) — 12 new items (Alibaba Zhenwu AI chip, Efficiency-focused LLM releases, Norwegian partner AI hiring, Nscale $790M Norway AI infrastructure, Microsoft Norway data center expansion)
