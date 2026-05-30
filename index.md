@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-05-30](news/2026-05-30.md) — 12 new items (Microsoft 365 Copilot redesign, Claude Opus 4.8, Databricks Claude integration, Sopra Steria partner award, Norwegian data engineering jobs, Fabric & Databricks adoption signals)
 - [2026-05-29](news/2026-05-29.md) — 6 new items (Copilot Studio April updates, Databricks Azure Government, Claude Opus 4.8, SAP Prior Labs acquisition, Alibaba Zhenwu AI chip, Karpathy AI autonomy experiment)
 - [2026-05-28](news/2026-05-28.md) — 12 new items (Fabric May 2026, Databricks SQL alerts & Genie Code Agent, Claude for Small Business, Claude Code updates, Claude Managed Agents dreaming & orchestration, Claude Platform on AWS, MIT Technology Review Anthropic analysis, Evidi Azure Analytics specialization, Norwegian partner job openings)
 - [2026-05-27](news/2026-05-27.md) — 12 new items (Fabric May 2026, Databricks context engineer certification, Claude Opus 4.7, OpenAI GPT-5.5, Microsoft Copilot multi-model, Evidi analytics specialization, Nscale $790M Norway AI infrastructure)
