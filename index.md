@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-01](news/2026-06-01.md) — 12 new items (Fabric May 2026, Databricks SQL editor transition, Claude Opus 4.8, GPT-5.5 Instant, Atea & Bouvet job openings, Evidi hiring, Crayon pricing updates, Arribatec Fabric implementations)
 - [2026-05-31](news/2026-05-31.md) — 14 new items (Fabric April 2026, Copilot redesign, Claude Opus 4.8, Databricks Model Serving, GPT-5.5 Instant, Norwegian partners Sopra Steria & Evidi, Nscale AI infrastructure, Norway AI supply chain security)
 - [2026-05-30](news/2026-05-30.md) — 12 new items (Microsoft 365 Copilot redesign, Claude Opus 4.8, Databricks Claude integration, Sopra Steria partner award, Norwegian data engineering jobs, Fabric & Databricks adoption signals)
 - [2026-05-29](news/2026-05-29.md) — 6 new items (Copilot Studio April updates, Databricks Azure Government, Claude Opus 4.8, SAP Prior Labs acquisition, Alibaba Zhenwu AI chip, Karpathy AI autonomy experiment)
