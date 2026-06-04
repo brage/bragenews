@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-04](news/2026-06-04.md) — 8 new items (Fabric June 2026, Microsoft Build 2026, Anthropic IPO filing, Claude Mythos expansion)
 - [2026-06-03](news/2026-06-03.md) — 8 new items (Claude Opus 4.8, GPT-5.5 Instant, Databricks-Anthropic partnership, Evidi Azure Analytics specialization, Sopra Steria, Atea, Computas hiring)
 - [2026-06-02](news/2026-06-02.md) — 12 new items (Fabric guides & healthcare platforms, Copilot Studio agents & workflows, Build 2026 agenda, Autonomous data teams, Norwegian partner updates)
 - [2026-06-01](news/2026-06-01.md) — 12 new items (Fabric May 2026, Databricks SQL editor transition, Claude Opus 4.8, GPT-5.5 Instant, Atea & Bouvet job openings, Evidi hiring, Crayon pricing updates, Arribatec Fabric implementations)
