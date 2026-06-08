@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-08](news/2026-06-08.md) — 14 new items (Fabric June updates, Rayfin backend service, Databricks Data+AI Summit, Anthropic IPO filing, Claude Mythos expansion, Claude Code security fixes, Sopra Steria partner award, Norwegian data engineer jobs)
 - [2026-06-07](news/2026-06-07.md) — 12 new items (Fabric June updates, Rayfin agents, Databricks Genie/AI-BI integration, Claude Opus 4.8, GPT-5.5, Copilot Agents, Evidi analytics specialization, Unity Catalog mirroring, Data Factory innovations)
 - [2026-06-06](news/2026-06-06.md) — 8 new items (Fabric June 2026 updates, GitHub Enterprise Cloud integration, Data Factory real-time mirroring, Rayfin agents, Databricks-Fabric Unity Catalog, Claude Opus 4.8, GPT-5.5 Instant, Bouvet & Evidi hiring)
 - [2026-06-05](news/2026-06-05.md) — 8 new items (Fabric June updates, Microsoft Build 2026 GPU acceleration and Rayfin, Databricks Genie/AI-BI, Claude Opus 4.8, GPT-5.5 Instant)
