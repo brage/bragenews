@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-12](news/2026-06-12.md) — 8 new items (Claude Opus 4.8 leaderboard, Fabric June 2026 updates, Databricks Data + AI Summit, Evidi Norway leadership, Anthropic Claude News, AWS Roundup)
 - [2026-06-10](news/2026-06-10.md) — 8 new items (Claude Fable 5 & Mythos 5 launch, OpenAI GPT-5.5 Instant, Fabric June updates & Build 2026 announcements, Databricks June releases & AI Search, Atea & Sopra Steria partnership)
 - [2026-06-09](news/2026-06-09.md) — 10 new items (Fabric Data Factory migration, Partner ecosystem events, Databricks Lakeflow real-time, Anthropic IPO funding & Claude Opus 4.8, Evidi leadership, Norwegian partner hiring)
 - [2026-06-08](news/2026-06-08.md) — 14 new items (Fabric June updates, Rayfin backend service, Databricks Data+AI Summit, Anthropic IPO filing, Claude Mythos expansion, Claude Code security fixes, Sopra Steria partner award, Norwegian data engineer jobs)
