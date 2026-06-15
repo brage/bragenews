@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-15](news/2026-06-15.md) — 18 new items (Fabric June 2026, Databricks June with AI Search & Genie, Claude Opus 4.8, Claude Fable 5, Claude Design, GPT-5.5, Sopra Steria Q1 growth & scaling AI, Atea-Sopra Steria partnership, Norwegian partner jobs & agentic commerce market)
 - [2026-06-04](news/2026-06-04.md) — 8 new items (Fabric June 2026, Microsoft Build 2026, Anthropic IPO filing, Claude Mythos expansion)
 - [2026-06-03](news/2026-06-03.md) — 8 new items (Claude Opus 4.8, GPT-5.5 Instant, Databricks-Anthropic partnership, Evidi Azure Analytics specialization, Sopra Steria, Atea, Computas hiring)
 - [2026-06-02](news/2026-06-02.md) — 12 new items (Fabric guides & healthcare platforms, Copilot Studio agents & workflows, Build 2026 agenda, Autonomous data teams, Norwegian partner updates)
