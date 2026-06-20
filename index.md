@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-20](news/2026-06-20.md) — 12 new items (Fabric June agent support for service principals, Databricks Lakeflow Designer GA & AI Search, Claude Fable 5 launch, OpenAI GPT-5.2 retirement, Microsoft Build 2026 Copilot agents & Autopilots, Sopra Steria Red Hat AI collaboration, Norwegian partner job openings)
 - [2026-06-19](news/2026-06-19.md) — 26 new items (Fabric June updates, Databricks Genie & OpenSharing, Claude Opus 4.8 & 3.5 Sonnet computer use, GPT-5.5 release, Microsoft Build agentic AI & Autopilot agents, Sopra Steria acquisitions & post-CAPEX guidance, Crayon & Norwegian partner insights)
 - [2026-06-18](news/2026-06-18.md) — 18 new items (Fabric June: Rayfin, AI Functions, MQTT; Databricks June: AI Search, Genie, Lakeflow Designer GA; Claude Fable 5 & Corps initiative; Sopra Steria Azure specialization & defence trends; Norwegian data engineer hiring surge)
 - [2026-06-17](news/2026-06-17.md) — 12 new items (Fabric agents & agentic apps, Databricks Genie One launch, Claude Opus 4.8, Build 2026 agentic era, Databricks-Anthropic partnership, Sopra Steria toll system)
