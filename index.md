@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-23](news/2026-06-23.md) — 8 new items (Claude Fable 5 release & export controls, GPT-5.5 Instant accuracy, Fabric June service principals & mirroring, Databricks Omnigent framework & Fable 5 support, Sopra Steria Red Hat AI partnership, OpenAI Stargate Norway infrastructure)
 - [2026-06-22](news/2026-06-22.md) — 8 new items (Fabric Skills for Claude & Copilot agents, Claude Fable 5 on Databricks, Databricks query history PII redaction, Claude as agent control plane, Anthropic OpenClaw reinstatement, AI search tools, Satya Nadella on AI disruption)
 - [2026-06-21](news/2026-06-21.md) — 18 new items (Fabric June updates & Purview innovations, Databricks Lakeflow Designer GA & Genie updates & Azure partnership, Claude Opus 4.8 & Fable 5, GPT-5.5 enhancements, Anthropic IPO filing, Microsoft Build 2026 agentic AI, Atea Q1 results, Sopra Steria acquisitions, Evidi Azure Analytics specialization, Data engineer job openings across Nordic partners)
 - [2026-06-20](news/2026-06-20.md) — 12 new items (Fabric June agent support for service principals, Databricks Lakeflow Designer GA & AI Search, Claude Fable 5 launch, OpenAI GPT-5.2 retirement, Microsoft Build 2026 Copilot agents & Autopilots, Sopra Steria Red Hat AI collaboration, Norwegian partner job openings)
