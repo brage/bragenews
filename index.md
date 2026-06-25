@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-25](news/2026-06-25.md) — 12 new items (Fabric June 2026 auto-partitioning & time travel, Databricks Data + AI Summit governance updates, Claude Opus 4.8 & Fable 5, GPT-5.5 Instant enhancements, Microsoft Copilot Studio agents & voice, Atea Q1 growth, Evidi data engineer openings)
 - [2026-06-24](news/2026-06-24.md) — 9 new items (Fabric & Build 2026 AI agents, Databricks Genie One & pay-as-you-go pricing, Claude Opus 4.8, GPT-5.5 variants, Sopra Steria Red Hat partnership, Atea Microsoft Ignite, Norway AI infrastructure hub)
 - [2026-06-23](news/2026-06-23.md) — 8 new items (Claude Fable 5 release & export controls, GPT-5.5 Instant accuracy, Fabric June service principals & mirroring, Databricks Omnigent framework & Fable 5 support, Sopra Steria Red Hat AI partnership, OpenAI Stargate Norway infrastructure)
 - [2026-06-22](news/2026-06-22.md) — 8 new items (Fabric Skills for Claude & Copilot agents, Claude Fable 5 on Databricks, Databricks query history PII redaction, Claude as agent control plane, Anthropic OpenClaw reinstatement, AI search tools, Satya Nadella on AI disruption)
