@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-27](news/2026-06-27.md) — 8 new items (Fabric Operations Agent GA, agentic analytics stack at Build 2026, Databricks Lakehouse Replay beta, OpenSharing standard launch, Claude Fable 5 release & export control suspension)
 - [2026-06-26](news/2026-06-26.md) — 5 new items (Fabric June 2026 feature summary with MQTT & event-driven workflows, Data Days 2026 global event launch, Databricks June releases with Genie auto-approve & AI Search, Claude Fable 5 release & export controls, Sopra Steria post-CAPEX advisory services)
 - [2026-06-25](news/2026-06-25.md) — 12 new items (Fabric June 2026 auto-partitioning & time travel, Databricks Data + AI Summit governance updates, Claude Opus 4.8 & Fable 5, GPT-5.5 Instant enhancements, Microsoft Copilot Studio agents & voice, Atea Q1 growth, Evidi data engineer openings)
 - [2026-06-24](news/2026-06-24.md) — 9 new items (Fabric & Build 2026 AI agents, Databricks Genie One & pay-as-you-go pricing, Claude Opus 4.8, GPT-5.5 variants, Sopra Steria Red Hat partnership, Atea Microsoft Ignite, Norway AI infrastructure hub)
