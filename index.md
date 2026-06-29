@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-06-29](news/2026-06-29.md) — 18 new items (Fabric June operations agent GA & gateway updates, Databricks Lakeflow agentic data engineering & Genie ZeroOps, Claude Fable 5 & Mythos 5 release, OpenAI GPT-5.6 Sol/Terra/Luna, Microsoft Copilot multi-model platform, Sopra Steria year's partner award, Norwegian partner hiring)
 - [2026-06-28](news/2026-06-28.md) — 8 new items (Fabric June updates with gateway releases, Databricks Genie Managed MCP & LakebaseRT, OpenAI GPT-5.6 Sol/Terra/Luna preview, Claude Fable 5, Sopra Steria Microsoft award, Crayon licensing)
 - [2026-06-27](news/2026-06-27.md) — 8 new items (Fabric Operations Agent GA, agentic analytics stack at Build 2026, Databricks Lakehouse Replay beta, OpenSharing standard launch, Claude Fable 5 release & export control suspension)
 - [2026-06-26](news/2026-06-26.md) — 5 new items (Fabric June 2026 feature summary with MQTT & event-driven workflows, Data Days 2026 global event launch, Databricks June releases with Genie auto-approve & AI Search, Claude Fable 5 release & export controls, Sopra Steria post-CAPEX advisory services)
