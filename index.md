@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-02](news/2026-07-02.md) — 12 new items (FabCon Europe 2026 Barcelona, Fabric IQ GA, Lakehouse//RT with Reyden, Genie pay-as-you-go pricing, Claude Fable 5 global availability, Claude Opus 4.8, GPT-5.6 Sol/Terra/Luna, Atea Sokkeldirekroratet contract, Bouvet Copilot Cowork guidance, Norwegian partner job openings)
 - [2026-07-01](news/2026-07-01.md) — 0 new items (all recent announcements previously documented)
 - [2026-06-30](news/2026-06-30.md) — 12 new items (Fabric June gateway updates, Databricks Lakehouse//RT & LTAP, Claude Opus 4.8 & Sonnet 4.6, OpenAI GPT-5.6, Sopra Steria Q1 growth, Bouvet hiring for data/AI roles)
 - [2026-06-29](news/2026-06-29.md) — 18 new items (Fabric June operations agent GA & gateway updates, Databricks Lakeflow agentic data engineering & Genie ZeroOps, Claude Fable 5 & Mythos 5 release, OpenAI GPT-5.6 Sol/Terra/Luna, Microsoft Copilot multi-model platform, Sopra Steria year's partner award, Norwegian partner hiring)
