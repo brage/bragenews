@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-03](news/2026-07-03.md) — 15 new items (Fabric June 2026 updates with Pipeline node experience, Databricks DAIS 2026 launches Genie One & Unity Catalog, Claude Science for researchers, Claude Fable 5 global export controls lifted, Claude Sonnet 5 1M context window, California Anthropic partnership, Bouvet Fabric hiring, Sopra Steria 8,500 global hiring, Skatteteaten Azure region frustration, Nscale $790M Norway AI infrastructure)
 - [2026-07-02](news/2026-07-02.md) — 12 new items (FabCon Europe 2026 Barcelona, Fabric IQ GA, Lakehouse//RT with Reyden, Genie pay-as-you-go pricing, Claude Fable 5 global availability, Claude Opus 4.8, GPT-5.6 Sol/Terra/Luna, Atea Sokkeldirekroratet contract, Bouvet Copilot Cowork guidance, Norwegian partner job openings)
 - [2026-07-01](news/2026-07-01.md) — 0 new items (all recent announcements previously documented)
 - [2026-06-30](news/2026-06-30.md) — 12 new items (Fabric June gateway updates, Databricks Lakehouse//RT & LTAP, Claude Opus 4.8 & Sonnet 4.6, OpenAI GPT-5.6, Sopra Steria Q1 growth, Bouvet hiring for data/AI roles)
