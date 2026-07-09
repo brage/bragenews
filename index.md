@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-09](news/2026-07-09.md) — 2 new items (Claude Fable 5 on Databricks with Unity AI Gateway governance, Databricks July 2026 platform updates)
 - [2026-07-08](news/2026-07-08.md) — 11 new items (Microsoft Fabric credentials & AI Agent Builder cert, Microsoft 365 Copilot June features, Fabric & database roadshow, Databricks DAIS 2026: Unity Catalog, Agent Bricks, security updates, Genie Code expansion, customer awards, OpenAI partnership)
 - [2026-07-06](news/2026-07-06.md) — 8 new items (Claude Science AI workbench for researchers, Claude Fable 5 relaunch with safeguards, GPT-5.6 Sol frontier model with 3 variants, Claude Sonnet 5 default rollout, Fabric June 2026 updates, Databricks Genie One agentic coworker, Sopra Steria Microsoft partner award)
 - [2026-07-04](news/2026-07-04.md) — 51 new items (Fabric June & April feature updates, Databricks June & July releases with Genie pay-as-you-go, Claude Opus 4.8 & Fable 5 & Mythos 5 releases, OpenAI GPT-5.5-Cyber EU access, Anthropic Samsung chip partnership, Sopra Steria NiCE platform & innovations, Atea Q1 financial results, Norwegian Fabric/Databricks job openings, Market comparison guides)
