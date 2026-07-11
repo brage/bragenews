@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-11](news/2026-07-11.md) — 3 new items (OpenAI voice models with full-duplex support, GPT-5.6 series broad release, ChatGPT Work tool)
 - [2026-07-10](news/2026-07-10.md) — 12 new items (Fabric June 2026 updates, Databricks July releases with Veeva & MySQL connectors, Claude Opus 4.8 & Sonnet 5, OpenAI GPT-5.6 Sol/Terra/Luna with full-duplex voice, Sopra Steria operational excellence, Microsoft-Databricks OneLake integration)
 - [2026-07-09](news/2026-07-09.md) — 2 new items (Claude Fable 5 on Databricks with Unity AI Gateway governance, Databricks July 2026 platform updates)
 - [2026-07-08](news/2026-07-08.md) — 11 new items (Microsoft Fabric credentials & AI Agent Builder cert, Microsoft 365 Copilot June features, Fabric & database roadshow, Databricks DAIS 2026: Unity Catalog, Agent Bricks, security updates, Genie Code expansion, customer awards, OpenAI partnership)
