@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-13](news/2026-07-13.md) — 8 new items (Fabric June 2026 updates, Databricks July releases with Veeva/MySQL connectors & Genie pricing change, Claude Opus 4.8 & Sonnet 4.6, GPT-5.6 family public release, GPT-Live voice models)
 - [2026-07-12](news/2026-07-12.md) — 12 new items (Fabric June 2026 with data agents & time travel, Data Factory agent-ready, Databricks Sonnet 5 support & Lakehouse Replay beta & OpenSharing standard, Veeva & MySQL CDC connectors, Claude Opus 4.8 & Science, GPT-5.6 family, GPT-Live with full-duplex, Microsoft 365 Copilot with Claude integration)
 - [2026-07-11](news/2026-07-11.md) — 3 new items (OpenAI voice models with full-duplex support, GPT-5.6 series broad release, ChatGPT Work tool)
 - [2026-07-10](news/2026-07-10.md) — 12 new items (Fabric June 2026 updates, Databricks July releases with Veeva & MySQL connectors, Claude Opus 4.8 & Sonnet 5, OpenAI GPT-5.6 Sol/Terra/Luna with full-duplex voice, Sopra Steria operational excellence, Microsoft-Databricks OneLake integration)
