@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-16](news/2026-07-16.md) — 10 new items (Claude Fable 5 redeployment, OpenAI GPT-5.6 Sol/Terra/Luna launch, Anthropic extends Fable access, Fabric June 2026 updates, Databricks July releases, Atea Fabric webinar, Bouvet and Atea data engineer job openings)
 - [2026-07-14](news/2026-07-14.md) — 11 new items (OpenAI GPT-5.6 family with Sol/Terra/Luna models, OpenAI voice models, Claude Sonnet 5, Claude Reflect dashboard, Claude Cowork cloud, Claude Fable 5 redeployment, Fabric as AI agent platform, Fabric Connect networking, Sopra Steria Data Engineer opening)
 - [2026-07-13](news/2026-07-13.md) — 8 new items (Fabric June 2026 updates, Databricks July releases with Veeva/MySQL connectors & Genie pricing change, Claude Opus 4.8 & Sonnet 4.6, GPT-5.6 family public release, GPT-Live voice models)
 - [2026-07-12](news/2026-07-12.md) — 12 new items (Fabric June 2026 with data agents & time travel, Data Factory agent-ready, Databricks Sonnet 5 support & Lakehouse Replay beta & OpenSharing standard, Veeva & MySQL CDC connectors, Claude Opus 4.8 & Science, GPT-5.6 family, GPT-Live with full-duplex, Microsoft 365 Copilot with Claude integration)
