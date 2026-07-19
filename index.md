@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-19](news/2026-07-19.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna launch, ChatGPT Work enterprise tool, OpenAI voice models full-duplex, Fabric June 2026 Fabric Apps & Approval Activity, Databricks July Lakeflow row filtering, Atea Q1 growth)
 - [2026-07-18](news/2026-07-18.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna release, Claude Cowork mobile/web expansion, Claude Microsoft 365 integration, ChatGPT Work tool, Databricks July Lakeflow, Fabric gateway updates)
 - [2026-07-17](news/2026-07-17.md) — 7 new items (Claude for Teachers, OpenAI GPT-Red safety tool, Databricks Lakeflow July releases, Fabric pipeline UI improvements, Bouvet & Sopra Steria data engineer jobs, Nscale-Nordkraft Norway AI data center venture)
 - [2026-07-16](news/2026-07-16.md) — 10 new items (Claude Fable 5 redeployment, OpenAI GPT-5.6 Sol/Terra/Luna launch, Anthropic extends Fable access, Fabric June 2026 updates, Databricks July releases, Atea Fabric webinar, Bouvet and Atea data engineer job openings)
