@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-21](news/2026-07-21.md) — 11 new items (OpenAI GPT-5.6 family, voice models, Claude Sonnet 5, Claude Science, Databricks July releases, Evidi Norway leadership, Fabric-Claude integration)
 - [2026-07-20](news/2026-07-20.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna release, GPT-Live voice models, Kimi K3 from Moonshot AI, Claude Fable 5 expanded availability, Databricks Genie pay-as-you-go pricing, Databricks Lakehouse Replay beta, Fabric Skills for Claude)
 - [2026-07-19](news/2026-07-19.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna launch, ChatGPT Work enterprise tool, OpenAI voice models full-duplex, Fabric June 2026 Fabric Apps & Approval Activity, Databricks July Lakeflow row filtering, Atea Q1 growth)
 - [2026-07-18](news/2026-07-18.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna release, Claude Cowork mobile/web expansion, Claude Microsoft 365 integration, ChatGPT Work tool, Databricks July Lakeflow, Fabric gateway updates)
