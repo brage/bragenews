@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-23](news/2026-07-23.md) — 8 new items (Databricks $188B strategic funding round, Claude Fable 5 global return with safeguards, Claude Cowork mobile/web expansion, Google Gemini 3.6 Flash & security models, Microsoft-Mistral Europe GPU expansion, Fireworks AI $1.5B funding)
 - [2026-07-22](news/2026-07-22.md) — 7 new items (Databricks $188B valuation strategic round, Databricks Genie pricing updates, Claude Code extended promotion, Anthropic HIPAA configuration, Evidi billion-kroner milestone)
 - [2026-07-20](news/2026-07-20.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna release, GPT-Live voice models, Kimi K3 from Moonshot AI, Claude Fable 5 expanded availability, Databricks Genie pay-as-you-go pricing, Databricks Lakehouse Replay beta, Fabric Skills for Claude)
 - [2026-07-19](news/2026-07-19.md) — 7 new items (OpenAI GPT-5.6 Sol/Terra/Luna launch, ChatGPT Work enterprise tool, OpenAI voice models full-duplex, Fabric June 2026 Fabric Apps & Approval Activity, Databricks July Lakeflow row filtering, Atea Q1 growth)
