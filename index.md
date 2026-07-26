@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-26](news/2026-07-26.md) — 8 new items (Claude Opus 5 launch with near-Fable performance at half cost, Claude Cowork mobile/web expansion, AI industry shift to efficiency over capability, Fabric UI pipeline improvements, Databricks July releases & custom branded URLs)
 - [2026-07-25](news/2026-07-25.md) — 10 new items (Power BI July 2026 updates, Databricks July releases with new connectors & Genie Teams app & OpenAI GPT-5.6 support, Databricks-Microsoft partnership expansion, Claude voice mode updates, Norwegian job openings)
 - [2026-07-23](news/2026-07-23.md) — 8 new items (Databricks $188B strategic funding round, Claude Fable 5 global return with safeguards, Claude Cowork mobile/web expansion, Google Gemini 3.6 Flash & security models, Microsoft-Mistral Europe GPU expansion, Fireworks AI $1.5B funding)
 - [2026-07-22](news/2026-07-22.md) — 7 new items (Databricks $188B valuation strategic round, Databricks Genie pricing updates, Claude Code extended promotion, Anthropic HIPAA configuration, Evidi billion-kroner milestone)
