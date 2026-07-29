@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-07-29](news/2026-07-29.md) — 8 new items (Norwegian Partners: Sopra Steria agentic AI deployment with NICE, Evidi guidance on Fabric vs Databricks, Data engineer positions; Market Signals: Databricks-Microsoft OneLake integration, FabCon 2026, Evidi Nordic leadership)
 - [2026-07-28](news/2026-07-28.md) — 8 new items (Power BI July 2026 features, Databricks-Microsoft partnership expansion, Databricks $188B strategic round, Genie Agents expansion with beta APIs & Teams integration, Claude Opus 5 launch with adaptive thinking & toggle reasoning effort)
 - [2026-07-27](news/2026-07-27.md) — 8 new items (Fabric June 2026 updates with Fabric Apps & Approval Activity, Data Gateway improvements, Databricks July releases with new connectors & Genie Teams, Databricks $188B valuation, OpenAI GPT-5.6 family release, GPT-Live voice models, Atea Q1 growth, Crayon channel awards)
 - [2026-07-26](news/2026-07-26.md) — 8 new items (Claude Opus 5 launch with near-Fable performance at half cost, Claude Cowork mobile/web expansion, AI industry shift to efficiency over capability, Fabric UI pipeline improvements, Databricks July releases & custom branded URLs)
