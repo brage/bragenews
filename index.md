@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-02](news/2026-08-02.md) — 8 new items (Fabric July 2026 features & Power BI updates, Databricks August platform updates, Anthropic Claude August AI for Science grants & Claude Cowork mobile/web expansion, Claude Developer Platform MCP updates, Sopra Steria H1 2026 financial results, Norwegian data engineer job openings)
 - [2026-07-31](news/2026-07-31.md) — 12 new items (Fabric Skills for Claude/Copilot/CLI, Databricks-Microsoft partnership expansion, Databricks $18.8B valuation, Claude Opus 5 release, Claude voice updates, OpenAI GPT-5.6 family, GPT-Live voice models, Computas Atlassian sale, Norwegian data engineer hiring)
 - [2026-07-30](news/2026-07-30.md) — 9 new items (Power BI July 2026 updates with TMDL and REST APIs, Databricks July 2026 Veeva & MySQL connectors, Claude Opus 5 top AI model, GPT-5.6 and Copilot integration, Claude Sonnet 5 availability)
 - [2026-07-29](news/2026-07-29.md) — 8 new items (Norwegian Partners: Sopra Steria agentic AI deployment with NICE, Evidi guidance on Fabric vs Databricks, Data engineer positions; Market Signals: Databricks-Microsoft OneLake integration, FabCon 2026, Evidi Nordic leadership)
