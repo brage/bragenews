@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-04](news/2026-08-04.md) — 10 new items (Fabric Data Days 2026 exam vouchers, Databricks-OpenAI joint event on agents, Lakeflow updates, Claude Sonnet 5 pricing change, Claude Mythos cryptography research, Claude Code promotions, Microsoft 365 integrations, GPT Live voice, Sopra Steria acquisition)
 - [2026-08-03](news/2026-08-03.md) — 8 new items (Fabric July 2026 features & updates, Databricks July releases with new connectors & Teams integration, Claude Opus 5 release, Claude Cowork web/mobile expansion, OpenAI GPT-5.6 series launch, Sopra Steria growth guidance, Norwegian partner hiring)
 - [2026-08-02](news/2026-08-02.md) — 8 new items (Fabric July 2026 features & Power BI updates, Databricks August platform updates, Anthropic Claude August AI for Science grants & Claude Cowork mobile/web expansion, Claude Developer Platform MCP updates, Sopra Steria H1 2026 financial results, Norwegian data engineer job openings)
 - [2026-07-31](news/2026-07-31.md) — 12 new items (Fabric Skills for Claude/Copilot/CLI, Databricks-Microsoft partnership expansion, Databricks $18.8B valuation, Claude Opus 5 release, Claude voice updates, OpenAI GPT-5.6 family, GPT-Live voice models, Computas Atlassian sale, Norwegian data engineer hiring)
