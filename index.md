@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-07](news/2026-08-07.md) — 3 new items (Bitdeer $4.7B Tydal data center lease, Databricks-Microsoft partnership expansion, Claude Opus 5 release)
 - [2026-08-06](news/2026-08-06.md) — 0 new items
 - [2026-08-05](news/2026-08-05.md) — 6 new items (Databricks August 2026 releases with Unity AI Gateway, extended Genie pricing, Inkling model support; Claude Code August updates with VSCode focus view; Anthropic MCP protocol expansion; Norwegian AI data center investment signal)
 - [2026-08-04](news/2026-08-04.md) — 10 new items (Fabric Data Days 2026 exam vouchers, Databricks-OpenAI joint event on agents, Lakeflow updates, Claude Sonnet 5 pricing change, Claude Mythos cryptography research, Claude Code promotions, Microsoft 365 integrations, GPT Live voice, Sopra Steria acquisition)
