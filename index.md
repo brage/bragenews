@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-09](news/2026-08-09.md) — 9 new items (DeepSeek V4 Flash coding model 99% cheaper, Google DeepMind leadership change, EU AI Act enforcement begins, Alibaba Qwen3.8-Max release, Fabric July 2026 updates, Databricks serverless GPU compute & Model Serving enhancements, Norwegian data engineer hiring surge)
 - [2026-08-08](news/2026-08-08.md) — 8 new items (Anthropic $10B Volta Infra Norway AI data center deal, OpenAI GPT-5.6 Sol update with enhanced reasoning control, Databricks Unity AI Gateway GA with enterprise governance, Claude Fable 5 biology safeguards improvement, Norway emerging as AI infrastructure hub with multiple mega-investments)
 - [2026-08-07](news/2026-08-07.md) — 3 new items (Bitdeer $4.7B Tydal data center lease, Databricks-Microsoft partnership expansion, Claude Opus 5 release)
 - [2026-08-06](news/2026-08-06.md) — 0 new items
