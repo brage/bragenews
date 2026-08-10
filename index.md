@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-10](news/2026-08-10.md) — 14 new items (Claude Code auto mode default August 14, Anthropic Claude Design brand system support, Databricks Unity AI Gateway GA, Bitdeer $4.7B Norway Tydal data center lease, Norway AI infrastructure hub expansion for Fabric/Databricks)
 - [2026-08-08](news/2026-08-08.md) — 8 new items (Anthropic $10B Volta Infra Norway AI data center deal, OpenAI GPT-5.6 Sol update with enhanced reasoning control, Databricks Unity AI Gateway GA with enterprise governance, Claude Fable 5 biology safeguards improvement, Norway emerging as AI infrastructure hub with multiple mega-investments)
 - [2026-08-07](news/2026-08-07.md) — 3 new items (Bitdeer $4.7B Tydal data center lease, Databricks-Microsoft partnership expansion, Claude Opus 5 release)
 - [2026-08-06](news/2026-08-06.md) — 0 new items
