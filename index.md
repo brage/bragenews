@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-12](news/2026-08-12.md) — 6 new items (OpenAI GPT-5.6-Cyber cybersecurity model for authorized research, Claude for Teachers K-12 education product launch, Anthropic text watermarking for EU AI Act compliance, Databricks Genie Excel Add-in cascading filters, Bouvet and Sopra Steria data engineer hiring in Norway)
 - [2026-08-11](news/2026-08-11.md) — 5 new items (Fabric Spark Operations Skill for AI-assisted Spark diagnostics, Databricks Anthropic connector in Lakeflow Connect, Claude Sonnet 4 retirement notice, Microsoft Fabric Skills for Claude integration, Norway strong demand for data engineers with Fabric/Databricks skills)
 - [2026-08-10](news/2026-08-10.md) — 14 new items (Claude Code auto mode default August 14, Anthropic Claude Design brand system support, Databricks Unity AI Gateway GA, Bitdeer $4.7B Norway Tydal data center lease, Norway AI infrastructure hub expansion for Fabric/Databricks)
 - [2026-08-08](news/2026-08-08.md) — 8 new items (Anthropic $10B Volta Infra Norway AI data center deal, OpenAI GPT-5.6 Sol update with enhanced reasoning control, Databricks Unity AI Gateway GA with enterprise governance, Claude Fable 5 biology safeguards improvement, Norway emerging as AI infrastructure hub with multiple mega-investments)
