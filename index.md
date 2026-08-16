@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-16](news/2026-08-16.md) — 11 new items (Claude Code auto mode default Aug 14, Anthropic Chief Global Affairs Officer appointment, Claude Compliance API expansion for audits, OpenAI Ultrafast mode for GPT-5.6 Sol & GPT-5.6-Cyber model, Fabric Data Warehouse GPU acceleration, Databricks Lakeflow Gmail connector & Genie pricing extended through Jan 2027, Atea climate leadership recognition, Bouvet Q2 results presentation Aug 19)
 - [2026-08-15](news/2026-08-15.md) — 9 new items (Databricks August updates with Gmail/SendGrid connectors & Genie extensions, Claude Sonnet 5 permanent pricing, Anthropic research advances in Project Fetch & mathematics & cybersecurity, Bouvet Q2 2026 results coming August 19, Bitdeer $4.7B Volta Norway AI data center deal with 121 MW capacity)
 - [2026-08-14](news/2026-08-14.md) — 11 new items (Fabric July 2026 feature summary, Databricks August 2026 Gmail connector & materialized view CDC, Claude Code & Design August updates, OpenAI GPT-5.6 August improvements & ChatGPT updates, Sopra Steria H1 2026 solid results, SoftwareOne/Crayon Microsoft cloud momentum, Anthropic $10B Volta Norway data center infrastructure deal)
 - [2026-08-13](news/2026-08-13.md) — 8 new items (Fabric July 2026 features, Databricks August updates with Genie extension, Claude Cowork mobile/web expansion, GPT-5.6 Sol improvements with 68% fewer errors, GPT-5.6-Cyber launch for security testing, Anthropic-Volta $10B computing deal, Bitdeer $4.7B Norway AI data center)
