@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-23](news/2026-08-23.md) — 3 new items (Databricks $7B revenue run-rate & $5B funding at $190B valuation, Claude Code August platform updates, Power BI August 2026 features)
 - [2026-08-22](news/2026-08-22.md) — 0 new items
 - [2026-08-21](news/2026-08-21.md) — 8 new items (Fabric July 2026 feature updates with governance enhancements, Databricks August releases & $5B funding round at $190B valuation, Claude Sonnet 5 permanent pricing confirmed, Claude Cowork mobile expansion, Anthropic $10B Volta Norway AI data center deal, OpenAI GPT-5.6 August improvements with Ultrafast mode, BitDeer $4.7B Norway AI data center infrastructure investment)
 - [2026-08-20](news/2026-08-20.md) — 8 new items (Claude Cowork web and mobile expansion with background AI tasks, Claude invisible watermarks for AI-generated text, Claude Code August updates, Bitdeer Volta $4.7B Norway Tydal data center deal with 121MW, Databricks Genie free usage extended through January 2027, Norwegian data engineer job openings at Vend/Aker BP/Etterretningstjenesten/Norges Bank)
