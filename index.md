@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-26](news/2026-08-26.md) — 4 new items (Fabric March 2026 lakehouse auto-binding, Claude Code dynamic workflows, Bouvet data engineer roles, Databricks Spark Declarative Pipelines at SIGMOD)
 - [2026-08-23](news/2026-08-23.md) — 3 new items (Databricks $7B revenue run-rate & $5B funding at $190B valuation, Claude Code August platform updates, Power BI August 2026 features)
 - [2026-08-22](news/2026-08-22.md) — 0 new items
 - [2026-08-21](news/2026-08-21.md) — 8 new items (Fabric July 2026 feature updates with governance enhancements, Databricks August releases & $5B funding round at $190B valuation, Claude Sonnet 5 permanent pricing confirmed, Claude Cowork mobile expansion, Anthropic $10B Volta Norway AI data center deal, OpenAI GPT-5.6 August improvements with Ultrafast mode, BitDeer $4.7B Norway AI data center infrastructure investment)
