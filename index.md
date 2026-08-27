@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-08-27](news/2026-08-27.md) — 8 new items (Claude text watermarking for EU compliance, Claude Code auto-mode enabled by default, Databricks Unity Catalog privilege controls, Fabric July 2026 analytics improvements, Norwegian data engineer hiring at major enterprises)
 - [2026-08-26](news/2026-08-26.md) — 4 new items (Fabric March 2026 lakehouse auto-binding, Claude Code dynamic workflows, Bouvet data engineer roles, Databricks Spark Declarative Pipelines at SIGMOD)
 - [2026-08-23](news/2026-08-23.md) — 3 new items (Databricks $7B revenue run-rate & $5B funding at $190B valuation, Claude Code August platform updates, Power BI August 2026 features)
 - [2026-08-22](news/2026-08-22.md) — 0 new items
