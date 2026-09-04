@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-04](news/2026-09-04.md) — 5 new items (Databricks September 2026 Genie web search & Zerobus Arrow support, Databricks-Claude Fable 5.1 integration via Unity AI Gateway, Claude Finance Agents templates, Claude Opus 5 GA in Microsoft Foundry on Azure)
 - [2026-09-01](news/2026-09-01.md) — 8 new items (Fabric August 2026 enhancements, Databricks GPU serverless compute & Lakehouse Replay, Microsoft Copilot consolidation & feature drops, AI model release acceleration with 16 new models in August, Anthropic Claude healthcare expansion, Sopra Steria Starion/Nexova acquisitions, Bouvet & Itera AI/data hiring)
 - [2026-08-31](news/2026-08-31.md) — 8 new items (Salesforce-Anthropic Claudeforce partnership with $300M token commitment, Anthropic MCP enterprise-managed authorization GA, Sopra Steria Digital Product Simulation acquisition)
 - [2026-08-30](news/2026-08-30.md) — 18 new items (Fabric August 2026 watermark incremental load & Change Data Feed, Fabric Mirroring for MySQL, Kanerika FLIP partner solution, Databricks August Genie One desktop app & Unity Catalog mandatory policy, Databricks-Microsoft partnership extension to 2030s, Claude Opus 5 launch, Claude Science workbench, GPT-5.6 Sol/Terra/Luna family, OpenAI ChatGPT Work, Z.AI GLM-5.3 Flash, Microsoft Copilot app consolidation, Microsoft 365 Copilot July updates, Tensio Microsoft platform consolidation, Helse Sør-Øst health analytics platform, Azure Databricks Standard tier retirement)
