@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-07](news/2026-09-07.md) — 8 new items (Fabric 2026 enterprise updates, Databricks September releases with Genie web search & Claude Fable 5.1 in Unity AI Gateway, Claude Fable 5.1 commerce agent & Chrome GA, OpenAI GPT-6 Astra launch for cybersecurity & professional work with computer use, Sopra Steria Microsoft Year's Partner award)
 - [2026-09-05](news/2026-09-05.md) — 11 new items (Fabric August 2026 updates across all components, FabCon+SQLCon 2026 Barcelona Sept 28-Oct 1, Databricks Genie web search & OpenAI model support, Lakeflow Designer & web terminal enhancements, Claude Opus 5 with adaptive thinking & effort toggle, Claude Sonnet 5 pricing permanent, Claude Fable 5.1 release, OpenAI GPT-6 Astra with computer use, GPT-Live voice models, Evidi Fabric February 2026 event)
 - [2026-09-04](news/2026-09-04.md) — 5 new items (Databricks September 2026 Genie web search & Zerobus Arrow support, Databricks-Claude Fable 5.1 integration via Unity AI Gateway, Claude Finance Agents templates, Claude Opus 5 GA in Microsoft Foundry on Azure)
 - [2026-09-01](news/2026-09-01.md) — 8 new items (Fabric August 2026 enhancements, Databricks GPU serverless compute & Lakehouse Replay, Microsoft Copilot consolidation & feature drops, AI model release acceleration with 16 new models in August, Anthropic Claude healthcare expansion, Sopra Steria Starion/Nexova acquisitions, Bouvet & Itera AI/data hiring)
