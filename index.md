@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-17](news/2026-09-17.md) — 11 new items (Claude Fable 5.1 September 1 release with 75% cache cost reduction, Anthropic cancels Sonnet 5 price increase keeping $2/$10 permanent, OpenAI GPT-6 Astra September 3 launch with computer use capability, Databricks September releases with Genie web search & GPT-6 Astra support, Norwegian partners actively hiring Data Engineers for Fabric/Databricks)
 - [2026-09-16](news/2026-09-16.md) — 12 new items
 - [2026-09-13](news/2026-09-13.md) — 8 new items (GPT-6 Astra Sept 3-4 release with generational leap for cybersecurity & professional work, Anthropic thwarted Claude missile/espionage malicious ops, Salesforce Claudeforce partnership GA pilot with Salesforce in Claude, Fabric August Metadata Sync Delta Checkpoint V2 & KQL-Dashboard embed, Databricks September Apache Arrow Zerobus & Genie web search & OpenAI models & OpenSharing metrics)
 - [2026-09-12](news/2026-09-12.md) — 6 new items (Fabric August 2026 Metadata Sync Delta Checkpoint V2 & Workspace Relations API, Databricks September Lakeflow Zerobus & Genie web search & OpenAI GPT-6 Astra Unity Gateway, Claude Fable 5.1 September 1 release 25-45% cost reduction, GPT-6 Astra generational leap with 100k+ GPU training)
