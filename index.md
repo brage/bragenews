@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-19](news/2026-09-19.md) — 8 new items (Claude Fable 5.1 & Mythos 5.1 September release with 75% cache reduction, Databricks September features with Genie web search & GPT-6 Astra support, Microsoft Fabric August updates & Data Days Barcelona Sept 28-Oct 1, Sopra Steria Cloud & AI Partner award, Norwegian partner job openings at Bouvet/Evidi/Itera)
 - [2026-09-18](news/2026-09-18.md) — 0 new items
 - [2026-09-17](news/2026-09-17.md) — 11 new items (Claude Fable 5.1 September 1 release with 75% cache cost reduction, Anthropic cancels Sonnet 5 price increase keeping $2/$10 permanent, OpenAI GPT-6 Astra September 3 launch with computer use capability, Databricks September releases with Genie web search & GPT-6 Astra support, Norwegian partners actively hiring Data Engineers for Fabric/Databricks)
 - [2026-09-16](news/2026-09-16.md) — 12 new items
