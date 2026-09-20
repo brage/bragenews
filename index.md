@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-20](news/2026-09-20.md) — 22 new items (Fabric August 2026 updates, FabCon/SQLCon Barcelona Sept 28-Oct 1, Databricks September releases with Genie web search & OpenAI integration, Claude Opus 4.8 with 1M context, OpenAI GPT-6 Astra launch, Atea Microsoft partner recognition & Ignite event, Multiple Norwegian data engineer job openings at Sopra Steria/Capgemini/Entur/AutoStore/Spenn/Gjensidge)
 - [2026-09-18](news/2026-09-18.md) — 0 new items
 - [2026-09-17](news/2026-09-17.md) — 11 new items (Claude Fable 5.1 September 1 release with 75% cache cost reduction, Anthropic cancels Sonnet 5 price increase keeping $2/$10 permanent, OpenAI GPT-6 Astra September 3 launch with computer use capability, Databricks September releases with Genie web search & GPT-6 Astra support, Norwegian partners actively hiring Data Engineers for Fabric/Databricks)
 - [2026-09-16](news/2026-09-16.md) — 12 new items
