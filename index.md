@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-23](news/2026-09-23.md) — 6 new items (Fabric July/August 2026 updates with Eventstream reference data joins & agent-ready Data Factory, Databricks June-September 2026 releases with Claude Sonnet 5 & GPT-5.6 support & Genie MCP, Claude Opus 4.8 & Fable 5.1/Mythos 5.1, OpenAI GPT-5.6 & GPT-6 Astra, Atea AI ecosystem with Copilot Studio, Crayon Microsoft partner updates, Bouvet data engineer hiring)
 - [2026-09-22](news/2026-09-22.md) — 0 new items
 - [2026-09-21](news/2026-09-21.md) — 8 new items (Claude Fable 5.1 and Mythos 5.1 75% cost reduction on cache reads, Atea Sweden strong 2025 performance & regional expansion in Mälardalen, Evidi new Norway leader from Sopra Steria, Bouvet and Evidi hiring Data Engineers for Microsoft Fabric, Oslo data engineer job market with 335+ positions)
 - [2026-09-20](news/2026-09-20.md) — 22 new items (Fabric August 2026 updates, FabCon/SQLCon Barcelona Sept 28-Oct 1, Databricks September releases with Genie web search & OpenAI integration, Claude Opus 4.8 with 1M context, OpenAI GPT-6 Astra launch, Atea Microsoft partner recognition & Ignite event, Multiple Norwegian data engineer job openings at Sopra Steria/Capgemini/Entur/AutoStore/Spenn/Gjensidge)
