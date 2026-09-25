@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-25](news/2026-09-25.md) — 10 new items (Databricks Genie One MCP Server GA & AI Search enhancements, Claude Opus 5.5 release September 22 with 1M context & $4/$20 pricing, Claude discovers CRISPR-like gene editing enzyme system, Sopra Steria-Dynatrace observability partnership launch, Financial calendar 2027 announcement)
 - [2026-09-24](news/2026-09-24.md) — 12 new items (Claude Opus 5.5 release with 1M context & improved pricing, Claude Fable 5.1/Mythos 5.1 with 75% cheaper cache reads, Claude text watermarking for EU compliance, Databricks Genie Agents expansion with document reasoning, Atea/Evidi actively hiring Data Engineers for Microsoft Fabric, Sopra Steria observability partnerships, Microsoft Narvik AI hub infrastructure deal & Sandnes data center expansion)
 - [2026-09-23](news/2026-09-23.md) — 6 new items (Fabric July/August 2026 updates with Eventstream reference data joins & agent-ready Data Factory, Databricks June-September 2026 releases with Claude Sonnet 5 & GPT-5.6 support & Genie MCP, Claude Opus 4.8 & Fable 5.1/Mythos 5.1, OpenAI GPT-5.6 & GPT-6 Astra, Atea AI ecosystem with Copilot Studio, Crayon Microsoft partner updates, Bouvet data engineer hiring)
 - [2026-09-22](news/2026-09-22.md) — 0 new items
