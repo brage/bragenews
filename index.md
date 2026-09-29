@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-29](news/2026-09-29.md) — 1 new item (Claude Opus 5.5 September 22 launch with 40% cost reduction)
 - [2026-09-28](news/2026-09-28.md) — 6 new items
 - [2026-09-27](news/2026-09-27.md) — 8 new items
 - [2026-09-26](news/2026-09-26.md) — 11 new items (Databricks September 2026 Genie One MCP GA & Dashboard/Notebook tags & Unity Catalog ABAC DENY policies, Claude Opus 5.5 September 22 launch with 40% cost reduction & 1M context, Claude Mythos 5.1 & Fable 5.1, OpenAI GPT-6 Astra September 4 GA with superior reasoning, GPT-6 Sol/Luna September 22 release, Sopra Steria-Dynatrace September 14 observability practice, Evidi legal merger September 1, FABCON Barcelona September 28-October 1, Multiple data engineer job openings at Norwegian partners)
