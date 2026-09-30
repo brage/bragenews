@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-09-30](news/2026-09-30.md) — 2 new items (Evidi & Atea Data Engineer job openings for Microsoft Fabric)
 - [2026-09-29](news/2026-09-29.md) — 1 new item (Claude Opus 5.5 September 22 launch with 40% cost reduction)
 - [2026-09-28](news/2026-09-28.md) — 6 new items
 - [2026-09-27](news/2026-09-27.md) — 8 new items
