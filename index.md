@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-01](news/2026-10-01.md) — 7 new items (Fabric September 2026 feature summary with Claude Code integration, FabCon/SQLCon Barcelona highlights, Claude Sonnet 5.5 release, Microsoft Copilot enterprise reboot, Crayon partner recognition, Evidi Lead Data Engineer hiring, Databricks agentic data platform market shift)
 - [2026-09-30](news/2026-09-30.md) — 2 new items (Evidi & Atea Data Engineer job openings for Microsoft Fabric)
 - [2026-09-29](news/2026-09-29.md) — 1 new item (Claude Opus 5.5 September 22 launch with 40% cost reduction)
 - [2026-09-28](news/2026-09-28.md) — 6 new items
