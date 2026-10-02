@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-02](news/2026-10-02.md) — 9 new items (On-premises Data Gateway September release with Soft Delete recovery, Fabric September 2026 Advanced DAX generation for agents & governance policies, Databricks horizontal scaling for apps GA & Genie Agents data source/conversation expansion, Claude Sonnet 5.5 & Opus 5.5 releases, Sopra Steria H1 2026 revenue growth & strategic AIOps/cybersecurity partnerships, Databricks-Microsoft OneLake integration expansion)
 - [2026-10-01](news/2026-10-01.md) — 7 new items (Fabric September 2026 feature summary with Claude Code integration, FabCon/SQLCon Barcelona highlights, Claude Sonnet 5.5 release, Microsoft Copilot enterprise reboot, Crayon partner recognition, Evidi Lead Data Engineer hiring, Databricks agentic data platform market shift)
 - [2026-09-30](news/2026-09-30.md) — 2 new items (Evidi & Atea Data Engineer job openings for Microsoft Fabric)
 - [2026-09-29](news/2026-09-29.md) — 1 new item (Claude Opus 5.5 September 22 launch with 40% cost reduction)
