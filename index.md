@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-03](news/2026-10-03.md) — 12 new items (Fabric September 2026 with Pre/Post Deployment & Business Events GA, Daivio AI-powered analytics for Fabric Lakehouse, Databricks September GA releases for horizontal scaling & Genie Code, Lakehouse//RT real-time analytics with 16x performance gains, Claude Sonnet 4.6 with 1M token context, Claude Science AI workbench for researchers, OpenAI GPT-6 Sol/Luna/Terra releases, Sopra Steria Microsoft Year's Cloud & AI Partner award, Norwegian Microsoft partners job openings for Fabric/Databricks engineers, strong market demand for Norwegian data engineers)
 - [2026-10-02](news/2026-10-02.md) — 9 new items (On-premises Data Gateway September release with Soft Delete recovery, Fabric September 2026 Advanced DAX generation for agents & governance policies, Databricks horizontal scaling for apps GA & Genie Agents data source/conversation expansion, Claude Sonnet 5.5 & Opus 5.5 releases, Sopra Steria H1 2026 revenue growth & strategic AIOps/cybersecurity partnerships, Databricks-Microsoft OneLake integration expansion)
 - [2026-10-01](news/2026-10-01.md) — 7 new items (Fabric September 2026 feature summary with Claude Code integration, FabCon/SQLCon Barcelona highlights, Claude Sonnet 5.5 release, Microsoft Copilot enterprise reboot, Crayon partner recognition, Evidi Lead Data Engineer hiring, Databricks agentic data platform market shift)
 - [2026-09-30](news/2026-09-30.md) — 2 new items (Evidi & Atea Data Engineer job openings for Microsoft Fabric)
