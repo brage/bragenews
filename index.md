@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-09](news/2026-10-09.md) — 6 new items (FabCon Barcelona Sept 28-Oct 1 Fabric event, Databricks Genie One agentic coworker launch, OpenAI GPT-6 Astra release, Claude release cadence, Sopra Steria H1 2026 growth, Databricks Nordic market opportunity)
 - [2026-10-08](news/2026-10-08.md) — 9 new items (FabCon Europe 2026 Fabric innovations with Fabric IQ GA and agentic apps, Databricks Data+AI Summit Genie One launch and agent capabilities, Claude Opus 5 vs GPT-5.6 frontier model releases, Sopra Steria H1 2026 growth and acquisitions, EY Data Engineer hiring in Oslo, Sopra Steria Accelerate Fabric packaging for Norwegian enterprises)
 - [2026-10-07](news/2026-10-07.md) — 2 new items (Claude Opus 5.5 & GPT-6 Sol/Luna releases with improved capabilities and lower pricing)
 - [2026-10-06](news/2026-10-06.md) — 38 new items (Fabric September-October 2026 with Database Hub, Fabric IQ GA, agentic AI, FedRAMP High GCC, Databricks September with Genie One MCP GA & API portability, Claude Opus/Sonnet 5.5 releases, OpenAI GPT-6.1 Sol & DevDay, Claude for Government FedRAMP High, Sopra Steria space/AIOps/SAP partnerships, Computas UDI & UpCloud partnerships, Evidi growth & leadership, major Norwegian data center boom with Google Skien €600M, Statkraft strategy, Tydal 164MW AI center, Stargate Norway 100K GPUs, Microsoft Norway CEO change)
