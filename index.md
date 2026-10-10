@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-10](news/2026-10-10.md) — 8 new items (FabCon 2026 Database Hub and Fabric IQ, Fabric AI functions GA, Databricks Genie One agentic platform, xAI Grok integration, OpenAI GPT-5.6 and GPT-6 Astra, Anthropic $30B revenue forecast, Vinmonopolet unified Fabric+Databricks platform)
 - [2026-10-09](news/2026-10-09.md) — 6 new items (FabCon Barcelona Sept 28-Oct 1 Fabric event, Databricks Genie One agentic coworker launch, OpenAI GPT-6 Astra release, Claude release cadence, Sopra Steria H1 2026 growth, Databricks Nordic market opportunity)
 - [2026-10-08](news/2026-10-08.md) — 9 new items (FabCon Europe 2026 Fabric innovations with Fabric IQ GA and agentic apps, Databricks Data+AI Summit Genie One launch and agent capabilities, Claude Opus 5 vs GPT-5.6 frontier model releases, Sopra Steria H1 2026 growth and acquisitions, EY Data Engineer hiring in Oslo, Sopra Steria Accelerate Fabric packaging for Norwegian enterprises)
 - [2026-10-07](news/2026-10-07.md) — 2 new items (Claude Opus 5.5 & GPT-6 Sol/Luna releases with improved capabilities and lower pricing)
