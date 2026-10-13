@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-13](news/2026-10-13.md) — 8 new items (FabCon Europe 2026 Fabric announcements with Fabric IQ GA and new pricing, Claude Opus 5.5 with 40% lower cost, Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads, data engineer job openings across Norway, Microsoft Fabric Data Engineer certification update)
 - [2026-10-12](news/2026-10-12.md) — 9 new items (Claude Haiku 5.5 & Sonnet 5.5 releases, Databricks October 2026 features, Microsoft Fabric Community Day October 14, Lakeflow agentic data engineering, Itera Senior Data Engineer & Analytics Engineer openings in Fredrikstad)
 - [2026-10-11](news/2026-10-11.md) — 8 new items (FabCon 2026 Database Hub and Fabric IQ, Fabric June 2026 AI functions and Live Dashboards, Databricks Genie One and real-time analytics, Claude Fable 5.1 and Mythos 5.1, Norwegian partners Bouvet/Atea/Evidi hiring Data Engineers, Vinmonopolet unified Fabric+Databricks platform)
 - [2026-10-10](news/2026-10-10.md) — 8 new items (FabCon 2026 Database Hub and Fabric IQ, Fabric AI functions GA, Databricks Genie One agentic platform, xAI Grok integration, OpenAI GPT-5.6 and GPT-6 Astra, Anthropic $30B revenue forecast, Vinmonopolet unified Fabric+Databricks platform)
