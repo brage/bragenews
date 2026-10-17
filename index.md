@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-17](news/2026-10-17.md) — 5 new items (Databricks Genie One & Genie Ontology launch for agentic analytics, Anthropic revenue growth exceeds OpenAI, Microsoft Fabric Day Oslo event, Bouvet data engineer hiring)
 - [2026-10-15](news/2026-10-15.md) — 9 new items (FabCon 2026 Database Hub & Fabric IQ GA announcements, Databricks June Data+AI Summit Genie One launch & revenue growth, Claude 5 family releases with GPT-5.6 Sol/Terra/Luna, ChatGPT Work agent, Oslo municipality Fabric adoption, Norway AI data center infrastructure boom)
 - [2026-10-14](news/2026-10-14.md) — 0 new items
 - [2026-10-13](news/2026-10-13.md) — 8 new items (FabCon Europe 2026 Fabric announcements with Fabric IQ GA and new pricing, Claude Opus 5.5 with 40% lower cost, Claude Fable 5.1 and Mythos 5.1 with 75% cheaper cache reads, data engineer job openings across Norway, Microsoft Fabric Data Engineer certification update)
