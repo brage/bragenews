@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-20](news/2026-10-20.md) — 15 new items (Fabric June 2026 AI functions & Real-Time Dashboards GA, FabCon 2026 recap with Database Hub & Fabric IQ, Databricks Data+AI Summit Genie One launch at $5.4B revenue run-rate, Claude Sonnet 5.5 released 30% faster & cheaper, OpenAI GPT-5.6 model family with ChatGPT Work agent, Microsoft Copilot super app redesign, Atea Avinor NOK 272M licensing deal, Bouvet projects with Norwegian energy companies & Vinmonopolet hybrid Fabric+Databricks)
 - [2026-10-19](news/2026-10-19.md) — 7 new items (FabCon 2026 Database Hub & Fabric IQ with 35% cost savings, Databricks Foundation Model APIs with Claude Opus 4.8 & Sonnet 5, Microsoft Copilot Claude & GPT-5.6 integration, OpenAI GPT-Red red-teaming system, Sopra Steria Q3 2026 results scheduled)
 - [2026-10-18](news/2026-10-18.md) — 0 new items
 - [2026-10-17](news/2026-10-17.md) — 5 new items (Databricks Genie One & Genie Ontology launch for agentic analytics, Anthropic revenue growth exceeds OpenAI, Microsoft Fabric Day Oslo event, Bouvet data engineer hiring)
