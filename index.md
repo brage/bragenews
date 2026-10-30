@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-30](news/2026-10-30.md) — 12 new items (FabCon/SQLCon Barcelona Fabric IQ GA and data engineering agents, Databricks global partner awards and Data+AI Summit recap with $7B revenue, Claude/GPT/Copilot LLM integration and multi-model support, Sopra Steria Cloud & AI Partner award, Crayon acquisition into SoftwareOne, Bouvet data engineer roles for Fabric/Databricks)
 - [2026-10-28](news/2026-10-28.md) — 7 new items (FabCon Europe 2026 recap, Databricks Row Zero acquisition, Claude Haiku 5.5 release, Anthropic IPO delayed to November, Sopra Steria Q3 2026 results, Norwegian Fabric data warehouse tender, Devoteam M Cloud hybrid platform)
 - [2026-10-27](news/2026-10-27.md) — 8 new items (FabCon Europe 2026 recap with Fabric Native Execution Engine, Claude Haiku 5.5 October 7 release with 90% cost reduction, Bouvet Q2 2026 solid growth, Norwegian data engineer openings)
 - [2026-10-25](news/2026-10-25.md) — 5 new items (Claude Opus 5.5 & Sonnet 5.5 & Haiku 5.5 September-October 2026 releases, Columbus Norway & Sopra Steria Data Engineer job openings)
