@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-10-31](news/2026-10-31.md) — 2 new items (Anthropic IPO filing, FabCon Europe 2026 closing)
 - [2026-10-28](news/2026-10-28.md) — 7 new items (FabCon Europe 2026 recap, Databricks Row Zero acquisition, Claude Haiku 5.5 release, Anthropic IPO delayed to November, Sopra Steria Q3 2026 results, Norwegian Fabric data warehouse tender, Devoteam M Cloud hybrid platform)
 - [2026-10-27](news/2026-10-27.md) — 8 new items (FabCon Europe 2026 recap with Fabric Native Execution Engine, Claude Haiku 5.5 October 7 release with 90% cost reduction, Bouvet Q2 2026 solid growth, Norwegian data engineer openings)
 - [2026-10-25](news/2026-10-25.md) — 5 new items (Claude Opus 5.5 & Sonnet 5.5 & Haiku 5.5 September-October 2026 releases, Columbus Norway & Sopra Steria Data Engineer job openings)
