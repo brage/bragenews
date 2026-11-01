@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-11-01](news/2026-11-01.md) — 8 new items (Databricks October 2026 features, Itera and Computas data engineer roles)
 - [2026-10-31](news/2026-10-31.md) — 2 new items (Anthropic IPO filing, FabCon Europe 2026 closing)
 - [2026-10-28](news/2026-10-28.md) — 7 new items (FabCon Europe 2026 recap, Databricks Row Zero acquisition, Claude Haiku 5.5 release, Anthropic IPO delayed to November, Sopra Steria Q3 2026 results, Norwegian Fabric data warehouse tender, Devoteam M Cloud hybrid platform)
 - [2026-10-27](news/2026-10-27.md) — 8 new items (FabCon Europe 2026 recap with Fabric Native Execution Engine, Claude Haiku 5.5 October 7 release with 90% cost reduction, Bouvet Q2 2026 solid growth, Norwegian data engineer openings)
