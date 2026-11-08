@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-11-08](news/2026-11-08.md) — 7 new items (FabCon Barcelona Fabric IQ & on-demand billing, Databricks DAIS 2026 Genie One & Agent Bricks, Claude Haiku 5.5 cost reduction, OpenAI GPT-6 Cyber, Atea Agent transformation case study, Itera AI-driven Q3 growth)
 - [2026-11-07](news/2026-11-07.md) — 3 new items (Azure Fabric expansions, Databricks $7B funding, Anthropic 2026 releases)
 - [2026-11-06](news/2026-11-06.md) — 15 new items (FabCon 2026 Database Hub & Fabric Data-Centric AI, Databricks $188B valuation & Data+AI Summit Lakehouse//RT, Microsoft Copilot multi-model Claude/GPT, Atea-Microsoft cloud services expansion, Crayon partner recognition, Norwegian Fabric adoption signals)
 - [2026-10-31](news/2026-10-31.md) — 2 new items (Anthropic IPO filing, FabCon Europe 2026 closing)
