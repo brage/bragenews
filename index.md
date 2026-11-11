@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-11-11](news/2026-11-11.md) — 0 new items
 - [2026-11-10](news/2026-11-10.md) — 8 new items (Databricks November releases with Okta connector & Serverless GPU GA, OpenAI GPT-Image models & GPT-6 Cyber, Microsoft Fabric government cloud preview, Norwegian partners job openings, Fabric and Databricks market adoption signals)
 - [2026-11-09](news/2026-11-09.md) — 4 new items (Databricks November release with Okta connector beta & Lakebase sink upserts, Claude Duet research preview proactive agent, Claude Haiku 5.5 & Cowork cloud updates)
 - [2026-11-08](news/2026-11-08.md) — 7 new items (FabCon Barcelona Fabric IQ & on-demand billing, Databricks DAIS 2026 Genie One & Agent Bricks, Claude Haiku 5.5 cost reduction, OpenAI GPT-6 Cyber, Atea Agent transformation case study, Itera AI-driven Q3 growth)
