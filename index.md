@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-11-13](news/2026-11-13.md) — 10 new items (FabCon Barcelona Fabric IQ & data engineering agent & dbt GA, Databricks Genie GA, Claude Opus 5.5, Sopra Steria Norway Partner of Year, Atea Microsoft EMEA Regional Channel Partner, Itera/Evidi hiring, Fabric 31k+ customers 60% YoY growth)
 - [2026-11-12](news/2026-11-12.md) — 10 new items (Microsoft Fabric governed AI & Database Hub, Databricks Lakehouse RT & LTAP & Excel Add-in, Claude Haiku 5.5 & Duet agent & Slides/Docs, OpenAI GPT-6 Cyber, Computas Environment Agency framework, Bouvet Q3 2026 growth, Itera AI services 17% growth, Microsoft-Databricks partnership expansion, OBOS BBL Fabric 20% cost savings)
 - [2026-11-11](news/2026-11-11.md) — 0 new items
 - [2026-11-10](news/2026-11-10.md) — 8 new items (Databricks November releases with Okta connector & Serverless GPU GA, OpenAI GPT-Image models & GPT-6 Cyber, Microsoft Fabric government cloud preview, Norwegian partners job openings, Fabric and Databricks market adoption signals)
