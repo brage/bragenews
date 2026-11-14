@@ -2,6 +2,7 @@
 
 ## Digests
 
+- [2026-11-14](news/2026-11-14.md) — 8 new items (Databricks Genie Ontology snippets GA & Feature Views GA & Serverless GPU in clean rooms, Anthropic Mythos 5.2 & Fable 5.2 release, OpenAI GPT-Image-2.6 models & Dots GA, Sopra Steria named Microsoft Partner of the Year in Norway)
 - [2026-11-13](news/2026-11-13.md) — 10 new items (FabCon Barcelona Fabric IQ & data engineering agent & dbt GA, Databricks Genie GA, Claude Opus 5.5, Sopra Steria Norway Partner of Year, Atea Microsoft EMEA Regional Channel Partner, Itera/Evidi hiring, Fabric 31k+ customers 60% YoY growth)
 - [2026-11-12](news/2026-11-12.md) — 10 new items (Microsoft Fabric governed AI & Database Hub, Databricks Lakehouse RT & LTAP & Excel Add-in, Claude Haiku 5.5 & Duet agent & Slides/Docs, OpenAI GPT-6 Cyber, Computas Environment Agency framework, Bouvet Q3 2026 growth, Itera AI services 17% growth, Microsoft-Databricks partnership expansion, OBOS BBL Fabric 20% cost savings)
 - [2026-11-11](news/2026-11-11.md) — 0 new items
